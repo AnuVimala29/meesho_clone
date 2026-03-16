@@ -1,7 +1,7 @@
 # Project Name: Meesho Clone
 
 ## Created By
-Anu s v
+Anu Saravanan
 
 ## Project Description
 This project is a simple e-commerce application inspired by the Meesho platform. 
